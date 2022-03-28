@@ -1,0 +1,4 @@
+    name : Palameeva Anastasia Sergeevna ,
+    age: 25 ,
+    number of pets: 0 ,
+    future desired salar: 1000
