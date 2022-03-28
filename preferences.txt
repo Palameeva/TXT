@@ -1,0 +1,5 @@
+        favorite series:"You,
+        favorite film: Titanic,
+        favorite food: Pizza,
+        favorite time of year: Summer,
+        country you would like to visit: Italy
