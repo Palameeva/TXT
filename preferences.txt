@@ -1,4 +1,4 @@
-        favorite series:"You,
+        favorite series: You,
         favorite film: Titanic,
         favorite food: Pizza,
         favorite time of year: Summer,
